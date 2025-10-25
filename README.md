@@ -28,9 +28,10 @@ It covers the full pipeline — from data cleaning to dashboard visualization.
 
 ---
 
-## 🌐 Live Demo
-🔗 [Launch Streamlit App](#)  
-*(Link will be added once published online)*
+### 🚀 Live Demo (Streamlit App)
+Explore the live interactive dashboard here:  
+👉 [Open Streamlit App](https://coffee-sales-analysis-cwrxfvm6uxldpjbgccexpf.streamlit.app)
+
 
 ---
 
